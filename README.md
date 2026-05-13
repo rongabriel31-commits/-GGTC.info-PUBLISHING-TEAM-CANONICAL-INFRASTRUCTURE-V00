@@ -1,0 +1,2 @@
+# -GGTC.info-PUBLISHING-TEAM-CANONICAL-INFRASTRUCTURE-V00
+Canonical Team Governance Repository
